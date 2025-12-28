@@ -1,4 +1,4 @@
 {
-    "bot_token": "xxxxxxxxxxxxxxxxxx",
-    "chat_id": "xxxxxxxxxxxxxxxxxx"
+    "bot_token": "8261239390:AAHgafkf85evT-6QTwHHeY6wenEJUf4Sml0",
+    "chat_id": "-1003345899081"
 }
